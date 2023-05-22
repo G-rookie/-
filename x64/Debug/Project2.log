@@ -1,0 +1,131 @@
+﻿  camera_calibration.cpp
+F:\single\Project2 - 副本\camera_calibration.cpp(52,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\single\Project2 - 副本\camera_calibration.cpp(90,20): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+F:\single\Project2 - 副本\camera_calibration.cpp(91,20): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+F:\single\Project2 - 副本\camera_calibration.cpp(83,12): warning C4101: “t”: 未引用的局部变量
+  findNew.cpp
+F:\single\Project2 - 副本\findNew.cpp(68,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\single\Project2 - 副本\findNew.cpp(281,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\findNew.cpp(282,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\findNew.cpp(288,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\findNew.cpp(289,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  findTest.cpp
+F:\single\Project2 - 副本\findTest.cpp(8,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\single\Project2 - 副本\findTest.cpp(89,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\single\Project2 - 副本\findTest.cpp(301,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\findTest.cpp(302,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\findTest.cpp(308,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\findTest.cpp(309,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  GrayCode.cpp
+F:\single\Project2 - 副本\GrayCode.cpp(36,38): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+F:\single\Project2 - 副本\GrayCode.cpp(122,168): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(122,77): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(173,176): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(173,83): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(190,16): warning C4244: “=”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+F:\single\Project2 - 副本\GrayCode.cpp(191,16): warning C4244: “=”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+F:\single\Project2 - 副本\GrayCode.cpp(277,177): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(277,80): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(331,185): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(331,86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(348,16): warning C4244: “=”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+F:\single\Project2 - 副本\GrayCode.cpp(349,16): warning C4244: “=”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+F:\single\Project2 - 副本\GrayCode.cpp(437,168): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(437,77): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(490,176): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(490,83): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(509,16): warning C4244: “=”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+F:\single\Project2 - 副本\GrayCode.cpp(510,16): warning C4244: “=”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+F:\single\Project2 - 副本\GrayCode.cpp(597,177): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(597,80): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(651,185): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(651,86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\single\Project2 - 副本\GrayCode.cpp(668,16): warning C4244: “=”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+F:\single\Project2 - 副本\GrayCode.cpp(669,16): warning C4244: “=”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+  main.cpp
+D:\software\PCL_1.11.1\3rdParty\Boost\include\boost-1_74\boost\function_output_iterator.hpp(14): message : This header is deprecated. Use <boost/iterator/function_output_iterator.hpp> instead.
+D:\software\PCL_1.11.1\include\pcl-1.11\pcl\visualization\interactor_style.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\software\PCL_1.11.1\include\pcl-1.11\pcl\visualization\pcl_visualizer.h(1606,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+D:\Program Files (x86)\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(F:\single\Project2 - 副本\x64\Debug\Project2.exe) 与 Linker 的 OutputFile 属性值(F:\single\Project2\x64\Debug\Project2.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+  Project2.vcxproj -> F:\single\Project2 - 副本\x64\Debug\Project2.exe
